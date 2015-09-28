@@ -1,5 +1,5 @@
 # MMText
-(c) 2015 Technomation Co., Ltd.
+Developed by Technomation
 
 A library to embed Myanmar Unicode on Android apps because normal embedding just don't work on some(most) devices.
 
